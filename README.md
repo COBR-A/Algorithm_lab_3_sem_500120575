@@ -1,4 +1,4 @@
-# Algorithm Lab - 3rd 500120575 Semester 🚀
+# Algorithm Lab - 3rd _Semester_500120575_🚀
 
 This repository contains implementations of various algorithmic problems solved as part of our lab exercises. Each lab explores core algorithmic strategies such as recursion, divide and conquer, greedy approaches, dynamic programming, and backtracking. Below is a brief overview of each experiment conducted:
 
